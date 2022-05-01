@@ -5,5 +5,7 @@ module.exports = {
                 prependData: '@import "@/assets/styles.scss";'
             }
         }
-    }
+    },
+
+    publicPath: '/aviasales/'
 }
